@@ -43,7 +43,7 @@ def loop2():
 
 print("Author: https://github.com/NoNameoN-A")
 
-vidUrl = "https://www.instagram.com/p/CMT5HZmBIqP/" #Change it
+vidUrl = "https://www.instagram.com/reel/DUQIdYLjFS4/?igsh=MXRpYzJ3bWRvZWJkbg==" #Change it
 
 bot = int(input("What do you want to do?\n1 - Auto Views Video\n2 - Auto Views Story\n"))
 
@@ -60,4 +60,5 @@ if bot == 1:
 elif bot == 2:
     loop2()
 else:
+
     print("You can choose just 1 or 2.\n\nRetry!")
